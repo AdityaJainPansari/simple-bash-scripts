@@ -35,4 +35,4 @@ done
 
 echo "</table>" >> q14.htm
 echo "</body>" >> q14.htm
-echo "</html>" >> q14.ht
+echo "</html>" >> q14.htm
